@@ -2,11 +2,11 @@
 Unity 2D projekts kad demonstre UI
 
 ### Veicamo darbu saraksts
-- [ ] Projekta uzsākšana un izvietošana GitHub
-- [ ] Projekta mapju un failu izvietošana
-- [ ] InputField un Textm Button elementu lietojums
-- [ ] Pirmā C# skripta izveide un piesaiste
-- [ ] Image un Toggle elementu lietojums
+- [x] Projekta uzsākšana un izvietošana GitHub
+- [x] Projekta mapju un failu izvietošana
+- [x] InputField un Textm Button elementu lietojums
+- [x] Pirmā C# skripta izveide un piesaiste
+- [x] Image un Toggle elementu lietojums
 - [ ] Panel un Toggle Group elementu lietojums
 - [ ] DropDown un Slidere elementu lietojums
 - [ ] Jaunas ainas ieviešana un pārslēgšana starp ainām

@@ -7,10 +7,10 @@ Unity 2D projekts kad demonstre UI
 - [x] InputField un Textm Button elementu lietojums
 - [x] Pirmā C# skripta izveide un piesaiste
 - [x] Image un Toggle elementu lietojums
-- [ ] Panel un Toggle Group elementu lietojums
-- [ ] DropDown un Slidere elementu lietojums
+- [x] Panel un Toggle Group elementu lietojums
+- [x] DropDown un Slidere elementu lietojums
 - [ ] Jaunas ainas ieviešana un pārslēgšana starp ainām
-- [ ] AudioSource un ScrollView elementu leitojums
+- [x] AudioSource un ScrollView elementu leitojums
 - [ ] Rigidbody un Collider komponsu lietojums
 - [ ] Sagatavošana Windows platformai
 
